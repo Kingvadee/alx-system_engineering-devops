@@ -1,2 +1,2 @@
 #!/bin/bash
-variable_BEST=School
+echo $BEST School
