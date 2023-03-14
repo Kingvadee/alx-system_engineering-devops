@@ -1,2 +1,2 @@
 #!/bin/bash
-$(($water_dec + $stir_dec))
+echo $result_bestchol
