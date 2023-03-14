@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($WATER + $STIR))
+$(($water_dec + $stir_dec))
