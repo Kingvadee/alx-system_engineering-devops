@@ -26,7 +26,7 @@ point in your career.
  * The web stack you are debugging today is a Wordpress website running on a LAMP stack.
 
 
-#Requirements :page_with_curl:
+#Requirements :page_with_curl:							      | # * Version.       |
  |---------------------------------------------------------------------------------------------------------|
  | 'Functions:'                                                                       | 'Versions'         |
  | 'All your files will be interpreted on'                                            | 'Ubuntu 14.04 LTS' |
