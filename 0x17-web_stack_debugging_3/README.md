@@ -27,18 +27,18 @@ point in your career.
 
 
 #Requirements :page_with_curl:							    
- |------------------------------------------------------------------------------------|--------------------|
- | 'Functions:'                                                                       | 'Versions'         |
- | 'All your files will be interpreted on'                                            | 'Ubuntu 14.04 LTS' |
- | 'All your files should end with a new line'                                        |                    |  
- | 'A README.md file at the root of the folder of the project is mandatory'           |                    |
- | 'Your Puppet manifests must pass puppet-lint,without any errors'                   | 'version 2.1.1'    |
- | 'Your Puppet manifests must run without error'                                     |                    |
- | 'Your Puppet manifests first line must be a comment explaining what the Puppet'    |                    |
- | 'manifest is about'				      				      |		           |
- | 'Your Puppet manifests files must end with the extension' 			      |       '.pp'        |
- | 'Files will be checked with Puppet'     			 	 	      | 'version 3.4'      |
- |------------------------------------------------------------------------------------|--------------------|
+ |---------------------------------------------------------------------------------------------------------|
+ | 'Functions:                                                                           Versions'         |
+ | 'All your files will be interpreted on                                                Ubuntu 14.04 LTS' |
+ | 'All your files should end with a new line                                                              |  
+ | 'A README.md file at the root of the folder of the project is mandatory                                 |
+ | 'Your Puppet manifests must pass puppet-lint,without any errors                       version 2.1.1'    |
+ | 'Your Puppet manifests must run without error                                                           |
+ | 'Your Puppet manifests first line must be a comment explaining what the Puppet                          |
+ | 'manifest is about 				      				       		           |
+ | 'Your Puppet manifests files must end with the extension  			               .pp'        |
+ | 'Files will be checked with Puppet      			 	 	         version 3.4'      |
+ |---------------------------------------------------------------------------------------------------------|
 
 #More Info:
 #  */ *Install puppet-lint on your local machine using these commanda :floppy_disk:
