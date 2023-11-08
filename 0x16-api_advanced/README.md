@@ -7,7 +7,9 @@
 
 #https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/314/WIxXad8.png
 
-#Background Context :page_with_curl:
+# Background Context :page_with_curl:
+
+
 	Questions involving APIs are common for interviews. Sometimes they’re as simple
  as‘write a Python script that queries a given endpoint’, sometimes they require
 you to use recursive functions and format/sort the results.
@@ -18,11 +20,14 @@ with API calls now can save you some face during technical interviews and even
 outside of the job market, you might find personal use cases to make your life a
 little bit easier.
 
-#Resources :page_with_curl:
 
-#Reddit API Documentation[https://www.reddit.com/dev/api/#GET_api_me.json]
 
-#Query String[https://en.wikipedia.org/wiki/Query_string]
+# Resources :page_with_curl:
+
+
+ #Reddit API Documentation[https://www.reddit.com/dev/api/#GET_api_me.json]
+
+ #Query String[https://en.wikipedia.org/wiki/Query_string]
 
 This project will cover:
 How to read API documentation to find the endpoints you’re looking for
@@ -31,7 +36,9 @@ How to parse JSON results from an API
 How to make a recursive API call
 How to sort a dictionary by value
 
-#Requirements :page_with_curl:
+
+# Requirements :page_with_curl:
+
 
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
