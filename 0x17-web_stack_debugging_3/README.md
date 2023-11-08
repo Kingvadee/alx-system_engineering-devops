@@ -26,8 +26,8 @@ point in your career.
  * The web stack you are debugging today is a Wordpress website running on a LAMP stack.
 
 
-#Requirements :page_with_curl:							      | # * Version.       |
- |---------------------------------------------------------------------------------------------------------|
+#Requirements :page_with_curl:							    
+ |------------------------------------------------------------------------------------|--------------------|
  | 'Functions:'                                                                       | 'Versions'         |
  | 'All your files will be interpreted on'                                            | 'Ubuntu 14.04 LTS' |
  | 'All your files should end with a new line'                                        |                    |  
@@ -38,7 +38,7 @@ point in your career.
  | 'manifest is about'				      				      |		           |
  | 'Your Puppet manifests files must end with the extension' 			      |       '.pp'        |
  | 'Files will be checked with Puppet'     			 	 	      | 'version 3.4'      |
- |---------------------------------------------------------------------------------------------------------|
+ |------------------------------------------------------------------------------------|--------------------|
 
 #More Info:
 #  */ *Install puppet-lint on your local machine using these commanda :floppy_disk:
