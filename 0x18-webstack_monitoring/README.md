@@ -12,7 +12,7 @@
  * Server debugging[https://intranet.alxswe.com/concepts/67]
 
 # https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/281/hb3pAsO.png
-# C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2023-11-08 233424.png
+# file:///C:/Users/user/OneDrive/Pictures/Screenshots/Screenshot%202023-11-08%20233424.png
 
 
 
