@@ -173,5 +173,5 @@ technical ability in a variety of settings.
 
 # MY BLOG POST :page_with_curl:
 
- | 'Blog Post Link'   |                                                                     |
- |--------------------|---------------------------------------------------------------------|
+ | 'Blog Post Link'   |'https://ojeifodavid842.hashnode.dev/a-postmortem-by-ojeifodavid842hashnodedev' |
+ |--------------------|--------------------------------------------------------------------------------|
