@@ -172,6 +172,6 @@ Please, remember that these blogs must be written in English to further your
 technical ability in a variety of settings.
 
 # MY BLOG POST :page_with_curl:
- |--------------------|---------------------------------------------------------------------|
+
  | 'Blog Post Link'   |                                                                     |
  |--------------------|---------------------------------------------------------------------|
