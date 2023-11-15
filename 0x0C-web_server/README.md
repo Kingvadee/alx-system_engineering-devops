@@ -19,12 +19,12 @@
     modify the Nginx configuration file `/etc/nginx/sites-enabled/default`.
  * *But my answer file would contain::bulb:
     |----------------------------------------------------------|
-    | 'kingdave@ubuntu cat 88-script_example'		       |
-    | '#!/usr/bin/env bash'				       |
-    | '# Configuring a server with specification XYZ'	       |
-    | 'echo hello world > /tmp/test'			       |
-    | 'sed -i 's/80/8080/g' /etc/nginx/sites-enabled/default'  |
-    | 'kingdave@ubuntu'					       |
+     `kingdave@ubuntu cat 88-script_example`		       
+     `#!/usr/bin/env bash`				       
+     `# Configuring a server with specification XYZ`	       
+     `echo hello world > /tmp/test`			       
+     `sed -i 's/80/8080/g' /etc/nginx/sites-enabled/default`
+     `kingdave@ubuntu`					       
 
 # ![Image.jpg](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/266/82VsYEC.jpg)
  * *As you can tell, I am not using emacs to perform the task in my answer file.
@@ -64,11 +64,11 @@
  * `What is a child process`
  * `Why web servers usually have a parent process and child processes`
  * `What are the main HTTP requests`
- * **What are the main HTTP requests**
+## **DNS**
  * `What DNS stands for`
  * `What is DNS main role`
 
-#DNS Record Types:bulb::page_wuth_curl:
+#DNS Record Types:bulb::page_with_curl:
  * `A`
  * `CNAME`
  * `TXT`
