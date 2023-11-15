@@ -6,8 +6,11 @@
 # Concept :page_with_curl:
 # ![Image.jpeg](file:///C:/Users/user/OneDrive/Pictures/Screenshots/Application%20Server%20image.jpeg)
  * *For this project, we expect you to look at these concepts:*
+
       [Web Server](https://intranet.alxswe.com/concepts/17):computer: :globe_with_meridians: :electric_plug:
-      [Server](https://intranet.alxswe.com/concepts/67):server:
+
+      [Server](https://intranet.alxswe.com/concepts/67) :server:
+
       [Web stack debugging](https://intranet.alxswe.com/concepts/68):bug: :computer: :wrench: :globe_with_meridians:
 # Background Context:
  *  Your web infrastructure is already serving web pages via Nginx that you installed
