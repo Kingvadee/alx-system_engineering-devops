@@ -9,7 +9,7 @@
 
       [Web Server](https://intranet.alxswe.com/concepts/17):computer: :globe_with_meridians: :electric_plug:
 
-      [Server](https://intranet.alxswe.com/concepts/67) :server:
+      [Server](https://intranet.alxswe.com/concepts/67):computer: :signal_strength: :globe_with_meridians:
 
       [Web stack debugging](https://intranet.alxswe.com/concepts/68):bug: :computer: :wrench: :globe_with_meridians:
 # Background Context:
