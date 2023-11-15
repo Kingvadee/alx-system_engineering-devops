@@ -52,12 +52,10 @@
  * 	[Not found HTTP response code](https://en.wikipedia.org/wiki/HTTP_404)
  * 	[Logs files on Linux](https://www.cyberciti.biz/faq/ubuntu-linux-gnome-system-log-viewer/)
 ###	 For reference:bulb:
-	|-----------------------------|
  	 [RFC 7231 HTTP/1.1](https://datatracker.ietf.org/doc/html/rfc7231)
  	 [RFC 7540 HTTP/2](https://datatracker.ietf.org/doc/html/rfc7540)
 
 ####	 man or help:
- 	|------------|
  	 `scp`
  	 `curl`
 
