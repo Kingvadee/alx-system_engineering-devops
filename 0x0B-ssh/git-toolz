@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# A bash script that pushes my work to github portfolio.
+git add .
+git commit -m "Updated file."
+git push

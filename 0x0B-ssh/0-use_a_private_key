@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# script that connects to server ubuntu@ with the key inside ~/.ssh/school
+ssh -i ~/.ssh/school ubuntu@
