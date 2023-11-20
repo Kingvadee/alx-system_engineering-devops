@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # A bash script that creates private key `school` Makes the number of bits created 4096, and makes the passphrase `betty`
-ssh-keygen -t rsa -b 4096 -N "betty"
+ssh-keygen -t rsa -b 4096 -f school -N "betty"
