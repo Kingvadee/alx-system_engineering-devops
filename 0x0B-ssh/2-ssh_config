@@ -1,0 +1,21 @@
+#!/usr/bin/env bash
+# Bash script that configs SSH
+
+# Set the configuration parameters
+PRIVATE_KEY_PATH='$HOME/.ssh/school'
+
+# Navigate to the .ssh directory
+cd ~/.ssh || exit
+
+# Create or update SSH configuration
+echo "Host *
+  PasswordAuthentication no
+  IdentityFile school" > config
+
+echo "SSH configuration updated."
+
+# Ensure proper permissions for the private key
+chmod 600 "school"
+
+echo "Permissions updated for school"
+
