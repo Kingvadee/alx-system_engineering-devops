@@ -132,7 +132,7 @@
 
 * **5. Design a beautiful 404 page**
   * A custom-designed 404 error page for my server, accessible at
-## ![bdbnb.site/404](http://bdbnb.site/404)
+## ![image/404](https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2017/08/1-10.png?fit=845%2C503&ssl=1)
 
 * **6. Deploy fast, deploy well**
   * [fabfile.py](./fabfile.py): A Python Fabric configuration file defining
