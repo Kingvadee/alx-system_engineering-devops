@@ -98,6 +98,7 @@
     * The username that `scp` connects with.
     * The path of the SSH privtae key that `scp` uses.
   * `scp` transfers the file to the user home directory `~/`.
+## ![image.png](https://media.istockphoto.com/id/1188883674/vector/file-transfer-concept-vector-illustration.jpg?s=1024x1024&w=is&k=20&c=MqAzPzD3eaLdHAZ-RmAIA8kSQbhf6r3KUc2z-7Lwf28=)
 
 * **1. Install nginx web server**
   * [1-install_nginx_web_server](./1-install_nginx_web_server): Bash script
