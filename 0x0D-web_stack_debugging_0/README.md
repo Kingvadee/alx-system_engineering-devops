@@ -90,8 +90,8 @@ Note that as you cannot use interactive software such as emacs or vi in your Bas
 
 
 
-# Example:page_with_curl:
- |----------------------------------------------------------------------------------------------------------------------------------|
+#Example :page_with_curl:							    
+ |---------------------------------------------------------------------------------------------------------|
  | `vagrant@vagrant:~$  docker run -p 8080:80 -d -it holbertonschool/265-0`							    |
  | `47ca3994a4910bbc29d1d8925b1c70e1bdd799f5442040365a7cb9a0db218021`								    |
  | `vagrant@vagrant:~$  docker ps`												    |
