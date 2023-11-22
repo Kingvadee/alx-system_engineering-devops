@@ -98,6 +98,7 @@
     * The username that `scp` connects with.
     * The path of the SSH privtae key that `scp` uses.
   * `scp` transfers the file to the user home directory `~/`.
+## ![image.png](https://media.istockphoto.com/id/1188883674/vector/file-transfer-concept-vector-illustration.jpg?s=1024x1024&w=is&k=20&c=MqAzPzD3eaLdHAZ-RmAIA8kSQbhf6r3KUc2z-7Lwf28=)
 
 * **1. Install nginx web server**
   * [1-install_nginx_web_server](./1-install_nginx_web_server): Bash script
@@ -105,10 +106,12 @@
   * Nginx listens on port 80.
   * When querying Nginx at its root `/` with a `curl` GET request,
   it returns a page containing the string `Holberton School`.
+## ![image.png](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Z8iMi4DxvfcrFDJoRq3FQQ.png)
 
 * **2. Setup a domain name**
   * [2-setup_a_domain_name](./2-setup_a_domain_name): A text file containing
   the domain name set up for the server through Gandi.
+## ![image.jpg](https://c8.alamy.com/comp/2PRC3YN/miniature-people-and-toys-word-with-the-word-domain-name-2PRC3YN.jpg)
 
 * **3. Redirection**
   * [3-redirection](./3-redirection): Bash script that configures a new Ubuntu
@@ -117,6 +120,7 @@
   plus:
     * The location `/redirect_me` returns a `301 Moved Permanently` redirection
     to another page.
+## ![image.png](https://ahrefs.com/blog/wp-content/uploads/2019/04/fb-301-redirects-2.png)
 
 * **4. Not found page 404**
   * [4-not_found_page_404](./4-not_found_page_404): Bash script that configures
@@ -124,10 +128,11 @@
   * Setup is identical to [1-install_nginx_web_server](./1-install_nginx_web_server)
   plus:
     * Features a custom 404 page containing the string `Ceci n'est pas une page`.
+## ![image.png](https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2017/08/1-10.png?fit=845%2C503&ssl=1)
 
 * **5. Design a beautiful 404 page**
   * A custom-designed 404 error page for my server, accessible at
-  [bdbnb.site/404](http://bdbnb.site/404).
+## ![image/404](https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2017/08/1-10.png?fit=845%2C503&ssl=1)
 
 * **6. Deploy fast, deploy well**
   * [fabfile.py](./fabfile.py): A Python Fabric configuration file defining
