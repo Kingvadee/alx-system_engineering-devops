@@ -102,8 +102,8 @@ Note that as you cannot use interactive software such as emacs or vi in your Bas
 
 ## :
 |------------------------------------|
-|`vagrant@vagrant:~$` `curl 0:8080`  |
-|`Hello Holberton`		     |
-|`vagrant@vagrant:~$`		     |
+| `vagrant@vagrant:~$ curl 0:8080`   |
+| `Hello Holberton`		     |
+| `vagrant@vagrant:~$`		     |
 |------------------------------------|
  * After connecting to the container and fixing whatever needed to be fixed `(here is your mission)`, you can see that curling port `80` return a page that contains `Hello Holberton`. Paste the command(s) you used to fix the issue in your answer file.
