@@ -182,4 +182,4 @@
 	|-------------------------------------------------------------------------------------------------------|
 
 #### **5. MySQL backup**
-#	![Youtube video of a flooded data center](https://www.youtube.com/watch?v=ANU-oSE5_hU)
+#	[Youtube video of a flooded data center](https://www.youtube.com/watch?v=ANU-oSE5_hU)
