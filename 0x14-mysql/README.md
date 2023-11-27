@@ -90,7 +90,6 @@
 	|ubuntu@229-web-01:~$										   |
 
 #### **4. Setup a Primary-Replica infrastructure using MySQL**
-##### ![image.png](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/09e83e914f0d6865ce320a47f2f14837a5b190b6.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231126%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231126T005747Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4969d2d592394c788b8eaf0308ecb962cddbc0cd99d0190492cbed77952e057b)
  * 	Having a replica member on for your MySQL database has 2 advantages:
 	* Redundancy: If you lose one of the database servers, you will still have another working one and a copy of your data.
 	* Load distribution: You can split the read operations between the 2 servers, reducing the load on the primary member and improving query response speed.
@@ -183,4 +182,4 @@
 	|-------------------------------------------------------------------------------------------------------|
 
 #### **5. MySQL backup**
-
+#	![Youtube video of a flooded data center](https://www.youtube.com/watch?v=ANU-oSE5_hU)
